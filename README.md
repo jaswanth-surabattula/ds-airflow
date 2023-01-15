@@ -11,6 +11,7 @@ In most of the tech start-ups pipelines for Analytics and Data Science are build
 * Hive
 * Metabase / Any Data Visualisation Tool
 * Apache Airflow
+* Jenkins
 
 ### [**Create AWS Account**](https://portal.aws.amazon.com/billing/signup#/start)
 ---
